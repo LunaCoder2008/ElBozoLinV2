@@ -6,15 +6,6 @@ tests/jit-paging/test-jit
 
 closure-compiler/
 images/
-*.bak
-*.orig
-*.wasm
-*.o
-*.bin
-*.img
-*.fixture
-*.fuse_hidden*
-*.DS_Store
 node_modules/
 Cargo.lock
 build-head
